@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FarhanNITT
 - 👀 I’m am interested in field of Robotics and Automation.
-- 🌱 I’m currently pursuing Mechanical Engineering at NIT Trichy.
-- 💞️ I’m looking to collaborate on fileds of Computer Vision, Machine Learning and Electronics.
+- 🌱 Currently pursuing a Master’s in Robotics Engineering at Worcester Polytechnic Institute, I specialize in autonomous systems, machine vision, and human-robot collaboration. My mission? To create intelligent, adaptive robots that can make a real-world impact—whether in manufacturing, healthcare, or everyday tasks.
 
 
 <!---
